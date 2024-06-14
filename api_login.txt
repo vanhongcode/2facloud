@@ -1,1 +1,4 @@
 Cách kết nối tới api của 2FACloud để đăng nhập thông qua tài khoảng 2FACloud
+# Hiện chỉ hỗ trợ c#
+
+
